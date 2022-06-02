@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @trifosaiin
 - 👀 I’m interested in Conservation and ecology
 - 🌱 I’m currently learning about Occupancy modeling using Bayesian methods
-- 💞️ I’m looking to collaborate on tropical ecology, ecological research. 
+- 💞️ I’m looking to collaborate on tropical ecology and community ecology
 - 📫 How to reach me: @trifosaiin or trifosaiin@gmail.com or tisimamo@ncsu.edu
 
 <!---
